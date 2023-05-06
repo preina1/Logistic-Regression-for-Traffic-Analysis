@@ -9,5 +9,5 @@ Public California state traffic incidents data from major freeways in the Los An
 Results showed a statistically significant relationship between emergence of rubbernecking queues and the presence of HOV lanes, on-ramps, and percent of trucks. However, the classification model showed a tendency to classify events as negative (no rubbernecking). ROC curves were analyzed to evaluate model accuracy for different probability decision thresholds using AUC as the performance measure. The highest AUC was obtained for the 15% probability threshold with a value of 0.6214, a recall of 46.5% and a true negative rate of 77.8%. These results suggested limitations in the predictive capabilities of the model. A thorough discussion of the data, analysis, and results can be found in the journal publication of this research:
 https://doi.org/10.1016/j.trip.2020.100266
 
-This repository includes the present README file and the R markdown file for the logistic regression model and ROC curves.
+This repository includes the present README file, the R code, and the R markdown file for the logistic regression model and ROC analysis.
 
