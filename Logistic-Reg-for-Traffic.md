@@ -4,7 +4,7 @@ Logistic Regression for Traffic Analysis
 ### Set working directory
 
 ``` r
-setwd("/Users/paulinareina/Logistic-Regression-for-Traffic-Analysis")
+setwd("/Users/Logistic-Regression-for-Traffic-Analysis")
 ```
 
 ### Load data
@@ -412,7 +412,8 @@ for (k in 1:length(fittedc1))
 rocobject30<-roc(rubbernecking, fitted30)
 ```
 
-    ## Setting levels: control = 0, case = 1
+    ## Setting levels: control = 0, case = 1![unnamed-chunk-13-1](https://user-images.githubusercontent.com/118860897/236708236-b21b2610-cc42-4ac2-8428-efcdbb7bbabb.png)
+
 
     ## Setting direction: controls < cases
 
