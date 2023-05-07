@@ -558,7 +558,7 @@ area10
     ## Area under the curve: 0.601
 
 ``` r
-## Threshold with highest AUC is 15%, however AUC is still too low, recommendation is to get larger dataset and include additional features no currently present in the dataset that include driver behavior characteristics which are believed to provide higher explanatory value to the dependent variable, thus testing for this model would be redundant (since it has already been determined that model doesn't perform well). Suggested improvements are outside the scope of this project. Next, I end with a couple of metrics for completeness.
+## Threshold with highest AUC is 15%, however AUC is still too low, recommendation is to get larger dataset and include additional features no currently present in the dataset that include driver behavior characteristics which are believed to provide higher explanatory value to the dependent variable, thus testing for this model would be redundant (since it has already been determined that model doesn't perform well). Implementation of suggested improvements are outside the scope of this project. Next, I end with a couple of metrics for completeness.
 ```
 
 ### Get metrics
